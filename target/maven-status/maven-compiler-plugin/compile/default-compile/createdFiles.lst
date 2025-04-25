@@ -1,0 +1,11 @@
+com/example/fxapi/client/ExchangeRateClient.class
+com/example/fxapi/service/ExchangeService.class
+com/example/fxapi/repository/ConversionTransactionRepository.class
+com/example/fxapi/dto/CreateConversionTransactionDTO.class
+com/example/fxapi/config/ExchangeApiProperties.class
+com/example/fxapi/FxapiApplication.class
+com/example/fxapi/service/ExchangeServiceImpl.class
+com/example/fxapi/entity/ConversionTransaction.class
+com/example/fxapi/controller/ExchangeController.class
+com/example/fxapi/mapper/ConversionTransactionMapper.class
+com/example/fxapi/dto/ConversionTransactionDTO.class

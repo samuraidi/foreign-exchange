@@ -1,0 +1,11 @@
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/config/ExchangeApiProperties.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/client/ExchangeRateClient.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/dto/CreateConversionTransactionDTO.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/mapper/ConversionTransactionMapper.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/dto/ConversionTransactionDTO.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/service/ExchangeServiceImpl.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/repository/ConversionTransactionRepository.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/controller/ExchangeController.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/FxapiApplication.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/service/ExchangeService.java
+/Users/user/Documents/programming/javaInterviews/foreign-exchange/fxapi/src/main/java/com/example/fxapi/entity/ConversionTransaction.java
